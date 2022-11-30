@@ -1,0 +1,5 @@
+insert into questao (nomeQuestao, A ,B ,C ,D ,Resposta) values ("Quantos catch pode possuir um try", "Apenas um", "Cinco apenas", "Dez apenas", "Vários catch", "D");
+insert into questao (nomeQuestao, A ,B ,C ,D ,Resposta) values ("Para que serve import java.sql*;?", "Conexão com o mundo", "Conexão com a classe", "Conexã com o banco de dados", "Conexão com o package", "C");
+insert into questao (nomeQuestao, A ,B ,C ,D ,Resposta) values ("O que é java ?", "É uma caixa de dialógo", "É um método utilizado pra fazer pesquisas", "É uma linguagem de programação orientada a objetos", "É um método para criptografar objetos", "C");
+insert into questao (nomeQuestao, A ,B ,C ,D ,Resposta) values ("Quais o menor  e o maior pais do mundo ?", "Vaticano e Rússia", "Mônaco e Canadá", "Malta e Estados Unidos", "São Marino e Índia", "A");
+insert into questao (nomeQuestao, A ,B ,C ,D ,Resposta) values ("De quem é a famosa frase 'penso, logo existo' ?", "Platão", "Descartes", "Galileu Galilei", "Sócretes", "B");
